@@ -1,5 +1,7 @@
 # BERT Fine-tuning Pipeline
 
+Repository created in September 2024. Reorganized and cleaned up in October 2026 (file structure and README only, the code is as it was written at the time, except where the README notes a fix).
+
 Fine-tunes a pretrained transformer for 3-class text classification using the Hugging Face `Trainer` API. The project started as a Kaggle notebook (September 2024) and the same pipeline is also provided as a small Python package so it can be run from the command line.
 
 ## What it does
