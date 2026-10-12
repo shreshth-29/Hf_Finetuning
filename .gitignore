@@ -1,0 +1,22 @@
+# Model checkpoints and training outputs
+checkpoints/
+outputs/
+runs/
+wandb/
+*.bin
+*.safetensors
+*.pt
+*.ckpt
+
+# Data
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+venv/
+
+# Notebooks
+.ipynb_checkpoints/
